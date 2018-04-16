@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Guess My Number program
+//  Guess My Number
 //
 //  Created by Scraggy on 4/15/18.
 //
